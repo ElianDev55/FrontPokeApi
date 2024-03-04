@@ -1,0 +1,41 @@
+.card-container_otro {
+    max-width: 1100px;
+    padding: 24px; /* Increased padding for more breathing room around cards */
+    margin: 0 auto;
+  
+    @media (max-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 20px; /* Adjusted gap for smaller screens */
+    }
+  
+    @media (max-width: 576px) {
+      grid-template-columns: 1fr;
+      grid-gap: 16px; /* Adjusted gap for mobile view */
+    }
+    background-color: var(--blanco);
+    border-radius: 16px;
+    border: 7px solid var(--negro);
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+    height: 20dvh;
+    overflow: auto;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.125);
+    padding: 20px; /* Increased padding for better content containment */
+    text-align: center;
+    margin: 8px; /* Added margin for additional separation */
+  }
+
+  .card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 35px; /* Increased gap for better spacing */
+  }
+
+  .setLayout{
+    position: fixed;
+    right: 20px;
+    top: 20px;
+  }

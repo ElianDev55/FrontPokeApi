@@ -1,0 +1,12 @@
+
+:root {
+  --rojo: #dd092d;
+  --negro: #242324;
+  --verde: #52ae61;
+  --azul: #29a9ff;
+  --blanco: #dfdedf ;
+}
+
+html {
+  background-color: var(--rojo);
+}

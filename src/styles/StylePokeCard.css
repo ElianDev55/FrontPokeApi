@@ -1,0 +1,91 @@
+
+
+.HoverCard{
+    border-radius: 16px;
+   
+}
+
+.Cardfire {
+    background-color: rgba(255, 160, 122, 0.3) !important;
+}
+
+.Cardwater {
+    background-color: rgba(135, 206, 250, 0.3) !important;
+}
+
+.Cardgrass {
+    background-color: rgba(144, 238, 144, 0.3) !important;
+}
+
+.Cardbug {
+    background-color: rgba(60, 179, 113, 0.3) !important;
+}
+
+.Cardnormal {
+    background-color: rgba(255, 218, 185, 0.3) !important;
+}
+
+
+.Cardflying {
+    background-color: rgba(135, 206, 235, 0.3) !important;
+}
+
+
+.Cardpoison {
+    background-color: rgba(218, 112, 214, 0.3) !important;
+}
+
+.Cardfighting {
+    background-color: rgba(255, 99, 71, 0.3) !important;
+}
+
+.Cardpsychic {
+    background-color: rgba(255, 105, 180, 0.3) !important;
+}
+
+
+.Cardrock {
+    background-color: rgba(160, 82, 45, 0.3) !important;
+}
+
+.Cardground {
+    background-color: rgba(210, 180, 140, 0.3) !important;
+}
+
+.Cardice {
+    background-color: rgba(176, 224, 230, 0.3) !important;
+}
+
+.Cardelectric {
+    background-color: rgba(255, 215, 0, 0.3) !important;
+}
+
+.Cardfairy {
+    background-color: rgba(255, 182, 193, 0.3) !important;
+}
+
+
+.Carddragon {
+    background-color: rgba(147, 112, 219, 0.3) !important;
+}
+
+
+.Cardghost {
+    background-color: rgba(72, 61, 139, 0.3) !important;
+}
+
+
+.Carddark {
+    background-color: rgba(47, 79, 79, 0.3) !important;
+}
+
+.Cardsteel {
+    background-color: rgba(192, 192, 192, 0.3) !important;
+}
+
+.HoverCard:hover{
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.125);
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}

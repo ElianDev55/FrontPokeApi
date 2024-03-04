@@ -1,0 +1,65 @@
+/* StyleSeacherLayout.css */
+
+.card-container-search {
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 0vh; /* Changed from height to min-height */
+    padding-top: 6vh; /* Adjust this value as needed */
+    flex-wrap: wrap; /* Allow items to wrap onto new lines */
+    margin-bottom: 50px;
+}
+
+.card-container > * {
+    
+    max-width: 400px;
+    width: 100%;
+}
+
+.letrero {
+    
+    max-width: 26%;
+    height: auto;
+    min-width: 490px;
+}
+
+
+.centrado {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.dire-botones {
+    
+    display: flex  ;
+    width: 15%;
+    justify-content: space-between !important;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.botones {
+    font-size: large;
+    border-radius: 6px;
+    background-color: var(--blanco);
+    border: 2px solid var(--azul);
+    height: 100px;
+    padding: 20px;
+
+
+}
+
+.botones:hover {
+    background-color: var(--azul);
+    color: var(--blanco);
+    cursor: pointer;
+}
+
+
