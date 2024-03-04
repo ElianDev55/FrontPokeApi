@@ -30,7 +30,8 @@ Esta aplicacion de React, Trae, Busca, Filtra los Pokemones forma de Tabla y Car
   ![image](https://github.com/ElianDev55/FrontPokeApi/assets/93440397/dc7a97be-05a6-4091-bac3-b87e6572db0b)
 
 **Modo Tabla:**
-  ![image](https://github.com/ElianDev55/FrontPokeApi/assets/93440397/cc31b94b-48bc-4570-92e7-31533c7aa805)
+  ![image](https://github.com/ElianDev55/FrontPokeApi/assets/93440397/cc0f2ee7-9437-4611-974e-d35d67aea6db)
+
 
 
 
