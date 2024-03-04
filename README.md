@@ -25,3 +25,6 @@ Esta aplicacion de React, Trae, Busca, Filtra los Pokemones forma de Tabla y Car
    ```bash
    npm run dev
    ```
+
+   ![image](https://github.com/ElianDev55/FrontPokeApi/assets/93440397/50730963-cc99-4161-9a8b-d0b2f03c0f3b)
+
